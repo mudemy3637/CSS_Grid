@@ -173,8 +173,7 @@ body {
   background-color: #f9f7f6;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  grid-row-gap: 3.5rem;
-  grid-column: 1/ -1; }
+  grid-row-gap: 3.5rem; }
   .home__img {
     width: 100%;
     grid-row: 1/2;
